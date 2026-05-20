@@ -18,3 +18,5 @@ This is a collection of Python data analysis projects.
 - Statsmodels
 - Scikit-learn
 - Jupyter Notebook
+- Power BI
+- SQL
