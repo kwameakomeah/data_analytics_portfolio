@@ -25,13 +25,15 @@ The New York State 2021 Hospital Inpatient Discharges (SPARCS De-Identified) dat
 
 ## Process
 
-1. Data cleaning
-2. Exploratory analysis
-3. Predictive modeling
-4. Data Warehousing
-5. Business Intelligence
-6. Healthcare Informatics
-7. Insights
+1. Business problem (high hospital readmission rates) 
+2. Data mining (Python)
+3. Data cleaning (Python)
+4. Exploratory analysis (Python)
+5. Predictive modeling (ML: Logistic, Random Forest, Gradient Boosting)
+6. Data Warehousing (MS SQL)
+7. Business Intelligence and Visualization (Power BI)
+8. Healthcare Informatics (Data Management and Governance)
+9. Insights
 
 ---
 
