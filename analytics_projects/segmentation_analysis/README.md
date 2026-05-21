@@ -23,12 +23,14 @@ The UCI Online Retail II dataset was used
 
 ## Process
 
-1. Data cleaning
-2. Exploratory analysis
-3. RFM Feature engineering
-4. KMeans clustering
-5. Insights
-6. Recommendations
+1. Business problem
+2. Data mining
+3. Data cleaning
+4. Exploratory analysis
+5. RFM Feature engineering
+6. Predictive analysis (KMeans clustering)
+7. Insights and Visualization
+8. Recommendations
 
 ---
 
