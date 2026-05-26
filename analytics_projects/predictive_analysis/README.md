@@ -55,5 +55,4 @@ https://boat10studios.com/reducing-hospital-readmissions-through-predictive-mode
 
 - screenshots
 - Power BI Report
-<iframe title="Readmission Dashboard" width="600" height="373.5" src="https://app.fabric.microsoft.com/view?r=eyJrIjoiMTkyOTY0ZGMtNjJhMy00ZGIyLThkYWUtMDFiODc1OGQ4YWQzIiwidCI6IjI4NGQxZGNhLWJhZmEtNDAzYy1hODk0LWMzOWZkM2MwMDRhMyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
