@@ -49,10 +49,10 @@ The New York State 2021 Hospital Inpatient Discharges (SPARCS De-Identified) dat
 ---
 
 ## Case Study
-https://boat10studios.com/reducing-hospital-readmissions-through-predictive-modeling/
+<b>[Portfolio](https://boat10studios.com/reducing-hospital-readmissions-through-predictive-modeling/)
 
 ## Visuals
 
 - screenshots
-- Power BI Report
+- <b>[Power BI Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiMTkyOTY0ZGMtNjJhMy00ZGIyLThkYWUtMDFiODc1OGQ4YWQzIiwidCI6IjI4NGQxZGNhLWJhZmEtNDAzYy1hODk0LWMzOWZkM2MwMDRhMyJ9)
 
